@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1c1c",
+      "courseCode": "CS101",
+      "courseName": "Introduction to Computer Science",
+      "courseDescription": "This course introduces the fundamentals of computer science including algorithms, data structures, and programming concepts.",
+      "credits": 4,
+      "semester": "Fall",
+      "department": "Computer Science",
+      "createdAt": "2023-08-20T00:00:00.000Z",
+      "updatedAt": "2023-08-20T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1c2c",
+      "courseCode": "MATH201",
+      "courseName": "Calculus I",
+      "courseDescription": "An introductory course to calculus covering limits, derivatives, and integrals.",
+      "credits": 3,
+      "semester": "Spring",
+      "department": "Mathematics",
+      "createdAt": "2022-09-10T00:00:00.000Z",
+      "updatedAt": "2022-09-10T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1c3c",
+      "courseCode": "PHYS101",
+      "courseName": "Physics I: Mechanics",
+      "courseDescription": "A course focusing on the principles of mechanics including Newton's laws, motion, energy, and momentum.",
+      "credits": 4,
+      "semester": "Fall",
+      "department": "Physics",
+      "createdAt": "2023-08-15T00:00:00.000Z",
+      "updatedAt": "2023-08-15T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1c4c",
+      "courseCode": "CHEM105",
+      "courseName": "General Chemistry",
+      "courseDescription": "This course covers basic chemical principles including atomic structure, bonding, stoichiometry, and chemical reactions.",
+      "credits": 3,
+      "semester": "Spring",
+      "department": "Chemistry",
+      "createdAt": "2023-09-05T00:00:00.000Z",
+      "updatedAt": "2023-09-05T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1c5c",
+      "courseCode": "BIO101",
+      "courseName": "Introduction to Biology",
+      "courseDescription": "This course provides an introduction to the basic principles of biology, including cell biology, genetics, and ecology.",
+      "credits": 3,
+      "semester": "Fall",
+      "department": "Biology",
+      "createdAt": "2024-01-10T00:00:00.000Z",
+      "updatedAt": "2024-01-10T00:00:00.000Z"
+    }
+  ]
+  

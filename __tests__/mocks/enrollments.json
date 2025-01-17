@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1f1f",
+      "student": "5fdbf1c4d0192e0f9c1a1d1d",
+      "course": "5fdbf1c4d0192e0f9c1a1c1c",
+      "instructor": "5fdbf1c4d0192e0f9c1a1e1e",
+      "enrollmentDate": "2023-08-20T00:00:00.000Z",
+      "grade": "A",
+      "status": "Completed",
+      "createdAt": "2023-08-20T00:00:00.000Z",
+      "updatedAt": "2023-08-20T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1f2f",
+      "student": "5fdbf1c4d0192e0f9c1a1d2d",
+      "course": "5fdbf1c4d0192e0f9c1a1c2c",
+      "instructor": "5fdbf1c4d0192e0f9c1a1e2e",
+      "enrollmentDate": "2022-09-10T00:00:00.000Z",
+      "grade": "B",
+      "status": "Completed",
+      "createdAt": "2022-09-10T00:00:00.000Z",
+      "updatedAt": "2022-09-10T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1f3f",
+      "student": "5fdbf1c4d0192e0f9c1a1d3d",
+      "course": "5fdbf1c4d0192e0f9c1a1c3c",
+      "instructor": "5fdbf1c4d0192e0f9c1a1e3e",
+      "enrollmentDate": "2023-07-01T00:00:00.000Z",
+      "grade": "A",
+      "status": "Active",
+      "createdAt": "2023-07-01T00:00:00.000Z",
+      "updatedAt": "2023-07-01T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1f4f",
+      "student": "5fdbf1c4d0192e0f9c1a1d4d",
+      "course": "5fdbf1c4d0192e0f9c1a1c4c",
+      "instructor": "5fdbf1c4d0192e0f9c1a1e4e",
+      "enrollmentDate": "2023-05-15T00:00:00.000Z",
+      "grade": "C",
+      "status": "Active",
+      "createdAt": "2023-05-15T00:00:00.000Z",
+      "updatedAt": "2023-05-15T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1f5f",
+      "student": "5fdbf1c4d0192e0f9c1a1d5d",
+      "course": "5fdbf1c4d0192e0f9c1a1c5c",
+      "instructor": "5fdbf1c4d0192e0f9c1a1e5e",
+      "enrollmentDate": "2024-01-25T00:00:00.000Z",
+      "grade": "Incomplete",
+      "status": "Active",
+      "createdAt": "2024-01-25T00:00:00.000Z",
+      "updatedAt": "2024-01-25T00:00:00.000Z"
+    }
+  ]
+  

@@ -1,0 +1,63 @@
+[
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1e1e",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "phoneNumber": "555-1234",
+      "department": "Computer Science",
+      "officeLocation": "Room 204",
+      "password": "securePassword123",
+      "createdAt": "2023-08-20T00:00:00.000Z",
+      "updatedAt": "2023-08-20T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1e2e",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "phoneNumber": "555-5678",
+      "department": "Mathematics",
+      "officeLocation": "Room 315",
+      "password": "mathPass456",
+      "createdAt": "2022-09-10T00:00:00.000Z",
+      "updatedAt": "2022-09-10T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1e3e",
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "email": "emily.johnson@example.com",
+      "phoneNumber": "555-6789",
+      "department": "Physics",
+      "officeLocation": "Room 106",
+      "password": "phySci789",
+      "createdAt": "2023-07-10T00:00:00.000Z",
+      "updatedAt": "2023-07-10T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1e4e",
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "email": "michael.brown@example.com",
+      "phoneNumber": "555-9876",
+      "department": "Chemistry",
+      "officeLocation": "Room 101",
+      "password": "chemistryPass001",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "updatedAt": "2024-01-15T00:00:00.000Z"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1e5e",
+      "firstName": "David",
+      "lastName": "Williams",
+      "email": "david.williams@example.com",
+      "phoneNumber": "555-5432",
+      "department": "Biology",
+      "officeLocation": "Room 202",
+      "password": "bioPass123",
+      "createdAt": "2024-02-01T00:00:00.000Z",
+      "updatedAt": "2024-02-01T00:00:00.000Z"
+    }
+  ]
+  

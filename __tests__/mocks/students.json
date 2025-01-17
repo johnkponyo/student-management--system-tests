@@ -1,0 +1,73 @@
+[
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1d1d",
+      "studentId": "S12345",
+      "firstName": "Alice",
+      "lastName": "Green",
+      "dateOfBirth": "2000-04-15T00:00:00.000Z",
+      "gender": "Female",
+      "email": "alice.green@example.com",
+      "phoneNumber": "555-1122",
+      "address": "123 Maple St, Springfield, IL",
+      "enrollmentDate": "2023-08-20T00:00:00.000Z",
+      "status": "Active",
+      "password": "xxxxxxxxxx"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1d2d",
+      "studentId": "S23456",
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "dateOfBirth": "1998-11-22T00:00:00.000Z",
+      "gender": "Male",
+      "email": "bob.brown@example.com",
+      "phoneNumber": "555-2233",
+      "address": "456 Oak St, Lincoln, NE",
+      "enrollmentDate": "2022-09-10T00:00:00.000Z",
+      "status": "Active",
+      "password": "xxxxxxxxxx"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1d3d",
+      "studentId": "S34567",
+      "firstName": "Charlie",
+      "lastName": "Johnson",
+      "dateOfBirth": "2001-02-28T00:00:00.000Z",
+      "gender": "Other",
+      "email": "charlie.johnson@example.com",
+      "phoneNumber": "555-3344",
+      "address": "789 Birch St, Madison, WI",
+      "enrollmentDate": "2021-01-15T00:00:00.000Z",
+      "status": "Inactive",
+      "password": "xxxxxxxxxx"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1d4d",
+      "studentId": "S45678",
+      "firstName": "Diana",
+      "lastName": "Smith",
+      "dateOfBirth": "1999-06-03T00:00:00.000Z",
+      "gender": "Female",
+      "email": "diana.smith@example.com",
+      "phoneNumber": "555-4455",
+      "address": "321 Pine St, Dallas, TX",
+      "enrollmentDate": "2024-05-10T00:00:00.000Z",
+      "status": "Active",
+      "password": "xxxxxxxxxx"
+    },
+    {
+      "_id": "5fdbf1c4d0192e0f9c1a1d5d",
+      "studentId": "S56789",
+      "firstName": "Eve",
+      "lastName": "Taylor",
+      "dateOfBirth": "2002-08-13T00:00:00.000Z",
+      "gender": "Female",
+      "email": "eve.taylor@example.com",
+      "phoneNumber": "555-5566",
+      "address": "101 Cedar St, Austin, TX",
+      "enrollmentDate": "2023-01-25T00:00:00.000Z",
+      "status": "Active",
+      "password": "xxxxxxxxxx"
+    }
+  ]
+  
